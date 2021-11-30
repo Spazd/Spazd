@@ -1,6 +1,6 @@
 JUST A DEV
 
-![](https://komarev.com/ghpvc/?username=Spazd&label=VIEWS&color=red&style=plastic)
+![](https://komarev.com/ghpvc/?username=Spazd&label=VIEWS&color=0047AB&style=plastic)
 
 Join Dox's Discord for updates and support from me! https://discord.gg/v9DFNUTeXf
 
